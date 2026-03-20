@@ -5,11 +5,11 @@ Simulación de un estacionamiento inteligente usando **C con pthreads** para la 
 
 ## Cómo Ejecutar
 
-Ambos archivos (`parking.c` y `dashboard_v1.py`) deben estar en el mismo directorio.
+Ambos archivos (`parking.c` y `dashboard.py`) deben estar en el mismo directorio.
 
 El dashboard compila y ejecuta el C automáticamente con subprocess
 ```bash
-python3 dashboard_v1.py
+python3 dashboard.py
 ```
 
 
