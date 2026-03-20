@@ -1,0 +1,33 @@
+[Fri Mar 20 14:32:49 2026] Car 0: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 0: Parked successfully (waited 0.00 seconds)
+[Fri Mar 20 14:32:49 2026] Car 2: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 2: Parked successfully (waited 0.00 seconds)
+[Fri Mar 20 14:32:49 2026] Car 4: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 4: Parked successfully (waited 0.00 seconds)
+[Fri Mar 20 14:32:49 2026] Car 5: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 6: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 7: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 8: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 9: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 3: Arrived at parking lot
+[Fri Mar 20 14:32:49 2026] Car 1: Arrived at parking lot
+[Fri Mar 20 14:32:54 2026] Car 0: Leaving parking lot
+[Fri Mar 20 14:32:54 2026] Car 5: Parked successfully (waited 5.00 seconds)
+[Fri Mar 20 14:32:54 2026] Car 2: Leaving parking lot
+[Fri Mar 20 14:32:54 2026] Car 6: Parked successfully (waited 5.00 seconds)
+[Fri Mar 20 14:32:54 2026] Car 4: Leaving parking lot
+[Fri Mar 20 14:32:54 2026] Car 7: Parked successfully (waited 5.00 seconds)
+[Fri Mar 20 14:32:55 2026] Car 6: Leaving parking lot
+[Fri Mar 20 14:32:55 2026] Car 8: Parked successfully (waited 6.00 seconds)
+[Fri Mar 20 14:32:57 2026] Car 7: Leaving parking lot
+[Fri Mar 20 14:32:57 2026] Car 9: Parked successfully (waited 8.00 seconds)
+[Fri Mar 20 14:32:58 2026] Car 9: Leaving parking lot
+[Fri Mar 20 14:32:58 2026] Car 3: Parked successfully (waited 9.00 seconds)
+[Fri Mar 20 14:32:59 2026] Car 5: Leaving parking lot
+[Fri Mar 20 14:32:59 2026] Car 1: Parked successfully (waited 10.00 seconds)
+[Fri Mar 20 14:32:59 2026] Car 8: Leaving parking lot
+[Fri Mar 20 14:33:00 2026] Car 3: Leaving parking lot
+[Fri Mar 20 14:33:04 2026] Car 1: Leaving parking lot
+
+Total cars parked: 10
+Average wait time: 4.80 seconds
